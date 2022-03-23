@@ -8,7 +8,6 @@
 - Pandas [^1]
 - Matplotlib [^1]
 - Postgres [^1]
----
 ## Features 
 #### Tkinter GUI
 the GUI for this software has been built using Tkinter, it is a easy fast and reliable GUI designer that can run large datapoints and display them effectively.
@@ -24,6 +23,5 @@ One aspect of this software *(code for this is not present currently)* is used f
 
 **TODO ADD A TABLE OF FEATURES FOR DA**
 
----
 [^1]: Some of these Libararies cant be seen in the script because a certain part of this software is not uploaded for confedential reasons as requested by the business using this software. 
 [^2]: This part of the software is still under development and will be expanded upon later when complete.
