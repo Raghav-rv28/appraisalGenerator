@@ -4,13 +4,12 @@
 - Docxtpl
 - Tkinter
 - SQLite
----
 - Numpy [^1]
 - Pandas [^1]
 - Matplotlib [^1]
 - Postgres [^1]
 ---
-### Features 
+## Features 
 #### Tkinter GUI
 the GUI for this software has been built using Tkinter, it is a easy fast and reliable GUI designer that can run large datapoints and display them effectively.
  **TODO ADD IMAGE HERE**
@@ -22,8 +21,9 @@ The Software has two databases: SQLite for the smaller software which works on t
 
 #### Data Analysis
 One aspect of this software *(code for this is not present currently)* is used for creating visual data aids which help in making business decisions regarding specific products for whom the appraisal was generated. although the entry rate in this software will be low, it was requested by the user. matplotlib along with seaborn was used to create visual data charts that gives insight into the data. [^2]
- **TODO ADD A TABLE OF FEATURES FOR DA**
 
+**TODO ADD A TABLE OF FEATURES FOR DA**
 
+---
 [^1]: Some of these Libararies cant be seen in the script because a certain part of this software is not uploaded for confedential reasons as requested by the business using this software. 
 [^2]: This part of the software is still under development and will be expanded upon later when complete.
